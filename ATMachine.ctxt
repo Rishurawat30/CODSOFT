@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ATMachine
+comment1.params=
+comment1.target=void\ checkpin()
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ checkBalance()
+comment4.params=
+comment4.target=void\ withdrawMoney()
+comment5.params=
+comment5.target=void\ depositMoney()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
